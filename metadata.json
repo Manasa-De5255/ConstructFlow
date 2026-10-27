@@ -1,0 +1,6 @@
+{
+  "name": "ConstructFlow - Construction Workforce Management",
+  "description": "Enterprise construction workforce management platform featuring role-based dashboards, daily shift scheduling with monthly hour limits, itemized payslips, anonymous reporting with voting, and a 5-language voice assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
